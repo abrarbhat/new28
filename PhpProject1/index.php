@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "Hello MY name is abrar ";
         echo "this is the first line";
         echo "this is the second line";
+        echo "i m now in abrar";
         ?>
     </body>
 </html>

@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "Hello MY name is abrar ";
         echo "this is the first line";
+        echo "this is the second line";
         ?>
     </body>
 </html>
